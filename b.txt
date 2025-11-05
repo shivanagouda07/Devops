@@ -1,1 +1,2 @@
 This is content for the b.txt
+2nd line of the file
