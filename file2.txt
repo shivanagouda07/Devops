@@ -1,2 +1,4 @@
 line one for the file2.txt
 line two for the file2.txt
+line three for the file1.txt
+line four for the file1.txt

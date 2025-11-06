@@ -1,2 +1,4 @@
 line one for the file.txt
 line two for the file.txt
+line three for the file.txt
+line four for the file.txt
