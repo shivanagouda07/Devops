@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 line one for the file.txt
 line two for the file.txt
 line three for the file.txt
 line four for the file.txt
 line five for the file.txt
 line six for the file.txt
+=======
+This is to inform you that , regarding the content of file.txt
+and also get the formality of the file
+just a informa or data
+
+>>>>>>> ddb80be (added file.txt to local repo)
